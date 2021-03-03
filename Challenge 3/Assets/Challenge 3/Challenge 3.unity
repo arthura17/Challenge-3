@@ -906,7 +906,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOver: 0
-  floatForce: 12
+  floatForce: 10
   explosionParticle: {fileID: 1171260740}
 --- !u!1001 &2097113909
 PrefabInstance:

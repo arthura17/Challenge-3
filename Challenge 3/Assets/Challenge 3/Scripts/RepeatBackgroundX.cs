@@ -10,7 +10,7 @@ public class RepeatBackgroundX : MonoBehaviour
     private void Start()
     {
         startPos = transform.position;
-        repeatWidth = GetComponent<BoxCollider>().size.y; 
+        repeatWidth = GetComponent<BoxCollider>().size.x / 2; 
     }
 
     private void Update()
