@@ -999,7 +999,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOver: 0
-  floatForce: 0.45
+  floatForce: 1
   explosionParticle: {fileID: 1171260740}
   fireworksParticle: {fileID: 2125644514}
   blipSound: {fileID: 8300000, guid: af9f934eb4288464eb120a5857921cc3, type: 3}
