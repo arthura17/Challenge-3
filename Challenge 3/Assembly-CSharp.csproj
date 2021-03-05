@@ -69,6 +69,7 @@
     <Compile Include="Assets\Challenge 3\Scripts\RepeatBackgroundX.cs" />
     <Compile Include="Assets\Challenge 3\Scripts\SpawnManagerX.cs" />
     <Compile Include="Assets\Challenge 3\Scripts\SpinObjectsX.cs" />
+    <Compile Include="Assets\Challenge 3\Scripts\StopMusic.cs" />
     <None Include="Assets\Course Library\_Source_Files\Materials\UnlitVertexColour_Alpha.shader" />
     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
     <Reference Include="UnityEngine">
